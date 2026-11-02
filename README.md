@@ -26,7 +26,7 @@ Application ho an'ny finday **Android** izay manampy amin'ny fampidirana ny kaod
 
 ### Fametrahana ny application (APK)
 
-1. Mandehana any amin'ny pejy **[Releases](../../releases)** ary alao ny rakitra `.apk` an'ny dikan-teny farany.
+1. Mandehana any amin'ny pejy **[scan credit](https://github.com/tianatechmadstudio/scan-credit/releases/tag/v1.0)** ary alao ny rakitra `.apk` an'ny dikan-teny farany.
 2. Rehefa vita ny fampidinana, sokafy ny rakitra.
 3. Raha angatahin'ny Android, **avelao ny fametrahana avy amin'ny loharano tsy fantatra** ho an'ilay navigateur nampiasaina (ohatra Chrome). Azo ovaina any amin'ny *Paramètres* ihany koa izany.
 4. Tsindrio ny **Install** ary andrasana ny fahavitan'ny fametrahana.
@@ -56,7 +56,7 @@ Get-FileHash ScanCredit.apk -Algorithm SHA256
 
 ### Fifandraisana
 
-- Mailaka / laharana: **[apetraho eto]**
+- Mailaka / laharana: **tiana.techmad.studio@gmail.com**
 - Fanontaniana na hevitra: mamoròna **[Issue](../../issues)** ao amin'ity repository ity.
 
 ---
@@ -76,7 +76,7 @@ Application pour téléphone **Android** qui facilite la saisie des codes de rec
 
 ### Installation de l'application (APK)
 
-1. Rendez-vous sur la page **[Releases](../../releases)** et téléchargez le fichier `.apk` de la dernière version.
+1. Rendez-vous sur la page **[Scan Credit]([https://github.com/tianatechmadstudio/scan-credit/releases])** et téléchargez le fichier `.apk` de la dernière version.
 2. Une fois le téléchargement terminé, ouvrez le fichier.
 3. Si Android le demande, **autorisez l'installation depuis des sources inconnues** pour le navigateur utilisé (par exemple Chrome). Ce réglage se trouve aussi dans les *Paramètres*.
 4. Appuyez sur **Installer** et attendez la fin de l'installation.
@@ -106,7 +106,7 @@ Get-FileHash ScanCredit.apk -Algorithm SHA256
 
 ### Contact
 
-- E-mail / numéro : **[à renseigner]**
+- E-mail / numéro : **tiana.techmad.studio@gmail.com**
 - Questions ou suggestions : ouvrez une **[Issue](../../issues)** dans ce dépôt.
 
 ---
