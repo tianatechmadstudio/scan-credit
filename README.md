@@ -5,8 +5,8 @@
 🇲🇬 [Malagasy](#malagasy) · 🇫🇷 [Français](#français)
 
 > ⚠️ **Fanambarana / Avertissement**
-> Scan Credit dia application **mahaleo tena**. **Tsy mifandray, tsy nankatoavin'i Yas, Orange na Airtel Madagascar ary tsy tohanan'izy ireo izy.** An'ny tompony avy ny anarana sy marika voatonona.
->
+> Scan Credit dia application **mahaleo tena**. **Tsy mifandray, tsy misy fankatoavana avy amin'ny Yas, Orange na Airtel Madagascar ary tsy tohanan'izy ireo izy.** An'ny tompony avy ny anarana sy marika voatonona.
+>**Fampafantarana**
 > Scan Credit est une application **indépendante**. Elle n'est **ni affiliée, ni approuvée, ni sponsorisée** par Yas, Orange ou Airtel Madagascar. Les noms et marques cités appartiennent à leurs propriétaires respectifs.
 
 ---
